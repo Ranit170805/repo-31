@@ -59,3 +59,8 @@ nav{
 ## link
 
 CSS fraework [Tailwindcss](https://t.me/Girl_Nitt)
+
+
+## Image dashboard
+
+![mix kor ban](photo_2025-07-04_19-54-17.jpg)
