@@ -53,5 +53,5 @@ nav{
 ## Check list
 - [x] home page
 - [x] about page
-- [] server page
-- [] product page
+- [ ] server page
+- [ ] product page
