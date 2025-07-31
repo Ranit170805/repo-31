@@ -22,9 +22,9 @@ Project describe here
    2. two    
 
 ## Table
-| id | name | age | phone |
-| 01 | ranit | 20 |0882990267 |
-| 02 | kheourn | 19 |0000000| 
+| id | name    | age | phone  |
+| 01 | ranit   | 20  |0882867 |
+| 02 | kheourn | 19  |0000000 | 
 ------
 
 ## Block quote
@@ -33,3 +33,25 @@ Project describe here
  composer install
 
  pip install 
+
+## code multiple line
+ ```  html
+ <h1> Hello Nit </h1>
+ <p> wellcome </p> 
+ ```
+```python
+for i in range(10)
+print(i)
+````
+```css
+nav{
+    display: flex;
+    justify-content: center; 
+}
+```
+
+## Check list
+- [x] home page
+- [x] about page
+- [] server page
+- [] product page
