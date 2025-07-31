@@ -55,3 +55,7 @@ nav{
 - [x] about page
 - [ ] server page
 - [ ] product page
+
+## link
+
+CSS fraework [Tailwindcss](https://t.me/Girl_Nitt)
